@@ -1,5 +1,6 @@
 /*
 Queries used for Tableau Project
+Link to Public page:  https://public.tableau.com/app/profile/luke.haakenson/viz/COVID-19WorldStats/WorldStatsDashboard
 */
 
 
@@ -63,13 +64,7 @@ order by PercentPopulationInfected desc
 
 
 
-
-
-
-
-
--- Queries I originally had, but excluded some because it created too long of video
--- Here only in case you want to check them out
+OTHER QUERIES (some same)
 
 
 -- 1.
