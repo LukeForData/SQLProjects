@@ -1,3 +1,8 @@
+--- Data for this project was exported to xlsx and imported to Tableau for this project:
+--- https://public.tableau.com/app/profile/luke.haakenson/viz/SafeBuyer-AustinHousingMarket/Story1
+------------------------------------------------------
+--- 
+
 SELECT *
 FROM Austin_Crime_Reports
 
